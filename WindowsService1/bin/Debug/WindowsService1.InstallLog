@@ -1,0 +1,13 @@
+﻿Installation de l'assembly 'C:\Users\me\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\me\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\me\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restauration de l'assembly 'C:\Users\me\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\me\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\me\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Une exception s'est produite lors de la phase de restauration du programme d'installation System.ServiceProcess.ServiceProcessInstaller.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+Une exception s'est produite lors de la phase de restauration de l'installation. Cette exception est ignorée et la restauration se poursuit. Cependant, l'ordinateur ne sera pas totalement restauré à son état initial à la fin de la restauration.
