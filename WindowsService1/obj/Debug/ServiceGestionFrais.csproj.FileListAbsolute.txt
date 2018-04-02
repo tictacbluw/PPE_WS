@@ -1,0 +1,11 @@
+C:\Users\me\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\me\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\me\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\me\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\MySql.Data.dll
+C:\Users\me\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\MySql.Data.xml
+C:\Users\me\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\obj\Debug\ServiceGestionFrais.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\me\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsServiceGestionFrais.ServiceGestionFrais.resources
+C:\Users\me\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\obj\Debug\ServiceGestionFrais.csproj.GenerateResource.Cache
+C:\Users\me\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\me\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
